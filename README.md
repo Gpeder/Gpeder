@@ -1,10 +1,11 @@
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com experiência em front-end e mobile. Atualmente, estou me especializando em **Flutter** e **React**, buscando aprimorar minhas habilidades e contribuir para projetos de código aberto.
+Sou desenvolvedor com experiência em front-end e mobile. Atualmente, estou me especializando em **Flutter** e **React**, e começando a explorar **Kotlin** para desenvolvimento mobile nativo. Busco aprimorar minhas habilidades e contribuir para projetos de código aberto.
 
 🌱 **Objetivos atuais**:
 - Aprender mais sobre **Dart/Flutter**.
-- Melhorar minhas habilidades em **Python** para backend.
+- Explorar **Kotlin** para desenvolvimento mobile.
+- Contribuir mais para projetos open source.
 
 ### 🔧 Tecnologias
 
@@ -12,6 +13,7 @@ Sou desenvolvedor com experiência em front-end e mobile. Atualmente, estou me e
 <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="left" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
 <img align="left" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+<img align="left" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 <img align="left" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
