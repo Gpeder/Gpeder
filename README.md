@@ -6,7 +6,7 @@
 <h3 align="center">Mobile & Front-end Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Especialista+em+Flutter+e+React;Explorando+Kotlin+e+Node.js;Apaixonado+por+Open+Source" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Especialista+em+Flutter+e+React;Explorando+Kotlin+e+Node.js" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -40,12 +40,9 @@
 
   <br>
 
-  ### 📊 GitHub Stats
+  ### 📊 Linguagens Mais Usadas
 
   <div align="center">
-    <a href="https://github.com/Gpeder">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gpeder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
     <a href="https://github.com/Gpeder">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpeder&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
     </a>
