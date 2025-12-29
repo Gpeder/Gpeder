@@ -1,59 +1,53 @@
-
-<h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
-<h3 align="center">Mobile & Front-end Developer</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Especialista+em+Flutter+e+React;Explorando+Kotlin+e+Node.js" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
 
-  ---
+# Olá, eu sou o Gustavo! 👋
+### Mobile & Front-end Developer
 
-  ### 🚀 Sobre mim
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Especialista+em+Flutter+e+React;Explorando+Kotlin+e+Node.js" alt="Typing SVG" />
 
-  Sou desenvolvedor com foco em criar experiências digitais fluidas. Atualmente, estou aprofundando meus conhecimentos no ecossistema **Mobile**, especializando-me em **Flutter** e expandindo minhas habilidades de back-end com **Node.js**.
+---
 
-  🌱 **Foco atual:**
-  * Dominar **Dart/Flutter** para apps complexos.
-  * Explorar **Kotlin** para desenvolvimento nativo.
-  * Estudar **Node.js** para construção de APIs.
+### ✨ Sobre mim
 
-  ---
+Sou desenvolvedor focado em criar experiências digitais fluidas.  
+Atualmente, busco dominar o ecossistema **Mobile** e criar APIs eficientes.
 
-  ### 🔧 Tech Stack
+🌱 **Foco atual:**
+* **Flutter:** Apps de alta performance.
+* **Kotlin:** Desenvolvimento nativo.
+* **Node.js:** Construção de APIs.
 
-  <div style="display: inline_block">
-    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </div>
+---
 
-  <br>
+### 🛠️ Minhas Ferramentas
 
-  ### 📊 Linguagens Mais Usadas
+<div style="display: inline_block">
+  <img alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img alt="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Kotlin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
 
-  <div align="center">
-    <a href="https://github.com/Gpeder">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpeder&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-    </a>
-  </div>
+---
 
-  <br>
+### 📊 Estatísticas
 
-  ### 📬 Vamos nos conectar?
+<a href="https://github.com/Gpeder">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpeder&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+</a>
 
-  <a href="https://www.linkedin.com/in/gustavopeder/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+---
+
+### 📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/gustavopeder/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:seuemail@exemplo.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
