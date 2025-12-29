@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-1d28f42dad81.png"  />
-</div>
 
 <h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
 <h3 align="center">Mobile & Front-end Developer</h3>
